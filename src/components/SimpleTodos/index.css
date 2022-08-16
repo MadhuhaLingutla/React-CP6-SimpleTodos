@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  font-family: 'Roboto';
+  height: 100vh;
+  padding: 20px;
+}
+.card {
+  background-color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 30px;
+  color: #ff8542;
+}
+.todo-container {
+  list-style: none;
+  width: 70%;
+}
